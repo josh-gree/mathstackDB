@@ -1,0 +1,14 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": true,
+  "deleteLocal": true,
+  "hostname": "josh-gree.clients.soton.ac.uk",
+  "port": "22",
+  "target": "/home/josh/mathstackDB",
+  "ignore": [
+    ".remote-sync.json"
+  ],
+  "username": "josh",
+  "password": "JOSHJ123m",
+  "transport": "scp"
+}
